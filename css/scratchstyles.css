@@ -1,0 +1,243 @@
+#top{
+    font-weight: bold;
+    text-decoration: wavy;
+    color: rgb(5, 37, 18);
+    text-align: center;
+    font-size: 80px;
+    
+}
+
+#life{
+    font-size: 25px;
+    text-align: center;
+    font-family:initial;
+    color: darkslategray;
+    
+}
+#yeet{
+    text-align: center;
+}
+
+#welcome{
+    text-align: center;
+    color: black
+}
+#resume{
+    text-align: center;
+    color: lightslategray;
+    font-size: 50px;
+}
+
+#title{
+    text-align: center;
+    color: darkslategrey;
+}
+
+body{
+    background-color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#resumebody{
+    border: 5 px solid black;
+    margin: 20px;
+    padding: 30 px;
+    text-align: center;
+}
+
+ol{
+    list-style-position: inside;
+}
+
+.title{
+    color:lightskyblue;
+}
+
+ul{
+    list-style-position: inside;
+}
+
+.header{
+    height:300px;
+    color: white;
+    text-align: center;
+}
+
+.footer{
+    color:black;
+    height: 25 px;
+    position: fixed;
+    bottom: 2 px; 
+    right: 5 px; 
+    left: 5 px;
+}
+#headerimg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 200%;
+
+}
+
+#collage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 200%;
+}
+
+nav{
+    background-color: lightgray;
+    padding: 10px;
+    overflow: hidden;
+}
+
+#common{
+    text-align: center;
+    overflow: hidden;
+    
+}
+
+.common{
+    text-align: center;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: whitesmoke;
+    padding: 10px 13px;
+    overflow: hidden;
+    text-decoration: none;
+    float: center;
+}
+
+
+nav{
+    background-color: whitesmoke;
+    padding: 10px;
+    overflow: hidden;
+    text-align: center;
+}
+
+nav a{
+    float: center;
+    color: black;
+    padding: 10px 13px;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+nav a:hover{
+    background-color: #ccc;
+    
+}
+
+#lines{
+    text-align: center;
+}
+
+p{
+    font-weight: bold;
+
+}
+
+
+#emoji{
+    text-align: center;
+
+}
+
+#opening{
+    text-align: center;
+    font-size: 25px;
+    text-align: center;
+    font-family:initial;
+    color: darkslategray;
+
+}
+h4{
+    display: -webkit-box;
+    text-align: center;
+    text-overflow:ellipsis;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 12;
+}
+
+#studies{
+    font-weight: lighter;
+    font-style: italic;
+    
+}
+
+#intro{
+    font-size: 20px;
+    text-align: center;
+    font-family:initial;
+    color: black;
+}
+
+#family{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    height:100%;
+}
+
+#horses{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    height:100%;
+}
+
+#banff{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    height:100%;
+}
+#link{
+    text-align: center;
+}
+#me{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    height: 100%;
+}
+
+#yeet{
+    display: block;
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 50%; 
+
+}
+
+#lake{
+    text-align: center;
+}
+
+#copyright{
+    text-align: center;
+    font-style: italic;
+}
+
+#youtube{
+    text-align: center;
+}
+
+#viz1682105624392{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    height:100%;
+    
+}
